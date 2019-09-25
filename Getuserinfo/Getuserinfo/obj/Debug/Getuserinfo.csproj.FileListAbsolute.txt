@@ -1,0 +1,6 @@
+C:\Users\asher\Documents\Truecoders\getuserinfo-ideantity\Getuserinfo\Getuserinfo\bin\Debug\Getuserinfo.exe.config
+C:\Users\asher\Documents\Truecoders\getuserinfo-ideantity\Getuserinfo\Getuserinfo\bin\Debug\Getuserinfo.exe
+C:\Users\asher\Documents\Truecoders\getuserinfo-ideantity\Getuserinfo\Getuserinfo\bin\Debug\Getuserinfo.pdb
+C:\Users\asher\Documents\Truecoders\getuserinfo-ideantity\Getuserinfo\Getuserinfo\obj\Debug\Getuserinfo.csprojAssemblyReference.cache
+C:\Users\asher\Documents\Truecoders\getuserinfo-ideantity\Getuserinfo\Getuserinfo\obj\Debug\Getuserinfo.exe
+C:\Users\asher\Documents\Truecoders\getuserinfo-ideantity\Getuserinfo\Getuserinfo\obj\Debug\Getuserinfo.pdb
